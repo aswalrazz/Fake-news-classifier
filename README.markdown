@@ -4,7 +4,7 @@ This project implements a fake news classifier using a Recurrent Neural Network 
 
 ## Table of Contents
 - [Overview](#overview)
-- [Dataset](#dataset)
+- [Dataset](#dataset)- https://www.kaggle.com/code/razzaswal/fake-news-classifier-using-rnn-lstm/input
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
